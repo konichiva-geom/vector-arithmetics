@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="vector-arithmetics-jvm-0.8">
-    <output-path>$PROJECT_DIR$/build/libs</output-path>
-    <root id="archive" name="vector-arithmetics-jvm-0.8.jar">
-      <element id="module-output" name="vector-arithmetics.jvmMain" />
-    </root>
-  </artifact>
-</component>
